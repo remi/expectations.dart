@@ -175,5 +175,5 @@ Expectations is released under the [MIT license][mit].
 [unittest_expect]:  http://code.google.com/p/dart/source/browse/trunk/dart/client/testing/unittest/shared.dart?r=1334#41
 [CoreExpectations]: http://remi.github.com/expectations.dart/CoreExpectations.html#CoreExpectations::CoreExpectations
 [ToBeExpectations]: http://remi.github.com/expectations.dart/ToBeExpectations.html#ToBeExpectations::ToBeExpectations
-[Jasmine]:          http://pivotal.github.com/jasmine/
+[Jasmine]:          https://jasmine.github.io/
 [mit]:              http://www.opensource.org/licenses/mit-license.php
